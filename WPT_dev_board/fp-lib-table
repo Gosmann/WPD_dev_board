@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name WPT_dev_board)(type KiCad)(uri ${KIPRJMOD}/WPT_dev_board.pretty)(options "")(descr "WPT_dev_board for LSI-UFRGS"))
+)
